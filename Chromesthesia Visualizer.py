@@ -16,7 +16,7 @@ import time
 import random
 
 # input any audio file (this is for demonstration purposes)
-audio_path = "/Users/stellipan/Desktop/Pic 16B Project/the-best-jazz-club-in-new-orleans-164472.mp3"
+audio_path = "the-best-jazz-club-in-new-orleans-164472.mp3"
 
 # predefined colors for each note (implement user entry later)
 NOTE_RGB = {
